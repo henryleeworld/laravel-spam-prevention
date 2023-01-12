@@ -1,4 +1,4 @@
-# Laravel 8 垃圾廣告防護
+# Laravel 9 垃圾廣告防護
 
 引入 lukeraymonddowning 的 honey 套件來擴增提供垃圾廣告防護工具，包括整合蜜罐系統、IP 位址封鎖和 reCAPTCHA。
 
