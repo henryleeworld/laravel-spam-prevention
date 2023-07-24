@@ -29,7 +29,7 @@ return [
      |
      */
 
-    'middleware' => ['web', 'honey', 'honey-recaptcha'],
+    'middleware' => ['web'],
 
     'auth_session' => AuthenticateSession::class,
 
