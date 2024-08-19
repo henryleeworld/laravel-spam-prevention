@@ -34,8 +34,8 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/ST80yNm.png)
+![](https://i.imgur.com/65SNZj7.png)
 > 避免機器人或有心人士惡意註冊影響了服務
 
-![](https://i.imgur.com/EENYMAw.png)
+![](https://i.imgur.com/vzuGRSn.png)
 > 使用 Google reCAPTCHA 的驗證功能，以阻擋惡意的註冊
